@@ -1,1 +1,2 @@
 # AngelSharks
+A side-scrolling game written in JavaScript and utilizing the JS P5 library as part of a four-man team at Simmons SharkHack 2016. This was my first experience with JavaScript, so I focused mostly on the graphic design aspect. I drew the shark and the background and then wrote the code that incorporated the images with the game itself. Written in September 2016.
